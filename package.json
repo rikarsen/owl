@@ -1,0 +1,23 @@
+{
+  "name": "owl",
+  "version": "1.0.0",
+  "description": "OWL",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rikarsen/owl.git"
+  },
+  "author": "rikarsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rikarsen/owl/issues"
+  },
+  "homepage": "https://github.com/rikarsen/owl#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.1"
+  }
+}
